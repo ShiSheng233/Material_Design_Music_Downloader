@@ -1,6 +1,12 @@
 # Material_Design_Music_Downloader
 
-摸鱼之作，应该不会更新。采用 Material Design In XAML 项目为基础。
+其实是假的Material Design，只是用了几个控件()
+
+我谢罪。
+
+摸鱼之作，应该不会更新。
+
+采用 Material Design In XAML 项目为基础。
 
 采用.NET Core跨平台方案，*但是不知道能不能跨平台hhh*
 
