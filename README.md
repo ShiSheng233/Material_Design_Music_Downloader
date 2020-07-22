@@ -28,7 +28,7 @@ id后面加上音乐id就好。
 
 ### 启发
 
-一时兴起，想试试Material Design，就看到了Material Design in XAML项目。
+一时兴起，想试试Material Design，碰巧就看到了Material Design in XAML项目。
 
 然后，花了几个小时，写了这个垃圾玩意出来，没设计UI，甚至下载的文件位置都不能选择()
 
